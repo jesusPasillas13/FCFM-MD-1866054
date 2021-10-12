@@ -9,3 +9,7 @@ FASE 2
 [PreguntasDeTecnicaEquipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Preguntas_MaquinadeSoporteVectorial_Equipo7.pdf)
 [Visualizacion_Eqipo7](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Visualizacion_Equipo7.ipynb)
 [AvancePIA_II_Grupo_01_Equipo7](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/AvancePIA_II_Grupo_01_Equipo7.ipynb)
+
+
+FASE 3
+[Tecnicas de Mineria_Equipo7](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Tecnicas_de_mineria_Equipo7.ipynb)
