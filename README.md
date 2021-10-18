@@ -13,4 +13,4 @@ FASE 2
 
 FASE 3
 [Tecnicas de Mineria_Equipo7](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Tecnicas_de_mineria.ipynb)
-[AvancePIA_II_Grupo_01_Equipo7.ipynb](https://github.com/aaron-v-kane/FCFM/blob/main/AvancePIA_II_Grupo_01_Equipo7.ipynb)
+[Notebook Final](https://github.com/aaron-v-kane/FCFM/blob/main/AvancePIA_II_Grupo_01_Equipo7.ipynb)
