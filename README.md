@@ -6,6 +6,7 @@
 
 
 FASE 2
+
 [Presentacion_MaquinasDeSoporteVectorial](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Presentacion_MaquinadeSoporteVectorial_Equipo7.pdf)
 
 [PreguntasDeTecnicaEquipo](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Preguntas_MaquinadeSoporteVectorial_Equipo7.pdf)
@@ -16,6 +17,7 @@ FASE 2
 
 
 FASE 3
+
 [Tecnicas de Mineria_Equipo7](https://github.com/AdrianaTrejo/Mineria-de-Datos/blob/main/Tecnicas_de_mineria.ipynb)
 
 [Notebook Final](https://github.com/aaron-v-kane/FCFM/blob/main/Notebook_Final_Grupo_01_Equipo7.ipynb)
